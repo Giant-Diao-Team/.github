@@ -1,12 +1,17 @@
-## Hi there 👋
+# 大貂team | 大貂引擎
+---
+## 关于我们
 
-<!--
+**大貂team** 是一个专注于 Minecraft 游戏生态开发的团队。我们怀揣着对创造与技术的热情，致力于为 Minecraft 社区带来更强大、更便捷的模型工具。
 
-**Here are some ideas to get you started:**
+我们的核心产品是 **大貂引擎**。
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## 大貂引擎 简介
+
+**大貂引擎** 是一个专为 **Minecraft 人模（人物模型）开发** 而设计的人物模型引擎。
+
+我们专注于人物模型的开发，喜欢狂野开放的新功能，致力于写出最好的人模引擎
+
+---
+
+**让我们一起，为 Minecraft 世界创造更多可能！**
